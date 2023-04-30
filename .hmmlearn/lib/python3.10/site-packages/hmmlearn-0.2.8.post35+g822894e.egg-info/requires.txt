@@ -1,0 +1,12 @@
+numpy>=1.10
+scikit-learn!=0.22.0,>=0.16
+scipy>=0.19
+
+[docs]
+matplotlib
+pydata_sphinx_theme
+sphinx-gallery
+sphinx>=2.0
+
+[tests]
+pytest
