@@ -1,12 +1,3 @@
-Implementations of Hidden Markov Models to the stock market.
-Dependencies (i think):
-    Python >= 3.6
-    NumPy >= 1.10
-    scikit-learn >= 0.16
-    Matplotlib >= 1.1.1
-    yfinance
-    hmmlearn
+Using hidden Markov Models to analyze the stock market. To activate dependencies, use command 'source .hmmlearn/bin/activate'.
 
-stock1.py: 
-stock2.py:
-stock3.py: 
+Run program using 'python3 train_two_regimes.py'
